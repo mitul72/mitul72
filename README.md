@@ -6,7 +6,7 @@ I’m a passionate **Software Developer** with experience in building efficient,
 ---
 
 ### 💻 Technical Skills
-- **Languages:** JavaScript, TypeScript, HTML5, CSS, Python, C#, Java, C++, Assembly  
+- **Languages:** JavaScript, TypeScript, Python, C#, Java, C++
 - **Frameworks & Libraries:** React, Next.js, Express.js, Tailwind CSS, Selenium, Playwright  
 - **Cloud & Databases:** AWS, MongoDB, MySQL, PostgreSQL, Oracle, Prisma ORM  
 - **Specialized Skills:** High-frequency trading, RESTful APIs, Unit Testing, Integration Testing  
